@@ -1,0 +1,7 @@
+### TO-DO SOON
+
+### FEATURES TO IMPLEMENT
+
+### BUGS TO FIX
+
+### UI
